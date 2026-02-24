@@ -440,7 +440,7 @@
 				DEVELOPMENT_TEAM = TZCUKDMG3L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IOSTemplate3/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Farm Animal Tracker";
+				INFOPLIST_KEY_CFBundleDisplayName = "Mr.Rabbi - Animal Tracker";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take photos and videos.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to your microphone to record audio.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to the photo library to save photos and videos.";
@@ -455,7 +455,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.animaltracker.farm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -485,7 +485,7 @@
 				DEVELOPMENT_TEAM = TZCUKDMG3L;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = IOSTemplate3/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Farm Animal Tracker";
+				INFOPLIST_KEY_CFBundleDisplayName = "Mr.Rabbi - Animal Tracker";
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need access to the camera to take photos and videos.";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to your microphone to record audio.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to the photo library to save photos and videos.";
@@ -500,7 +500,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1;
+				MARKETING_VERSION = 1.2;
 				PRODUCT_BUNDLE_IDENTIFIER = com.animaltracker.farm;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
